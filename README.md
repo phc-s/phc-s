@@ -1,4 +1,4 @@
-![PHC-S_READ](https://github.com/user-attachments/assets/fcd38b7b-997b-4087-99eb-365055b2df07)
+![PHC-S_READ](https://github.com/user-attachments/assets/872121b5-2fa8-47d0-a459-876cc8868455)
 - 😉✌️ Hi, I'm Pedro Henrique Costa Silva ♾️!
 - 🖥️🖱️ Interested in Web Development and Game Development as Hobby.
 - 📖🖋️ Currently I'm perfecting my skills, applying them with personal & scholar projects, aiming excelency.
