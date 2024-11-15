@@ -8,6 +8,6 @@
 - 🕹️🚗 My favorite hobbies are videogames and cars! 
 - ✝️🕊️ I'm a follower of Jesus Christ!
 
-#### *Experience with these tools & languages:*
+#### *Tools & Languages experience:*
 
-![image](https://github.com/user-attachments/assets/24711284-3e9d-47b2-9f31-4354f0587e61)
+![image](https://github.com/user-attachments/assets/b7195c3b-4633-4f3e-a75e-e3608bca7d34)
