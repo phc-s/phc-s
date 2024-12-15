@@ -7,7 +7,7 @@
 - 📮📡 Get in touch online through my social channels, by Email or Linkedin.
 - ✝️🕊️ I'm a follower of Jesus Christ! The Lord saved my life!
 
-#### * Main Tools & Languages experience:*
+#### *Main Tools & Languages experience:*
 
 ![image](https://github.com/user-attachments/assets/9ade8eac-4366-4277-8965-21d4e5378378)
 
