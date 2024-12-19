@@ -1,4 +1,4 @@
-![PHC-S_READ](https://github.com/user-attachments/assets/872121b5-2fa8-47d0-a459-876cc8868455)
+![phc-sgit](https://github.com/user-attachments/assets/3b1835ec-09c7-4895-a5ab-4cd725577ecd)
 #### *About me:*
 
 - 😉✌️ Hi, I'm Pedro Henrique Costa Silva ♾️!
@@ -6,8 +6,3 @@
 - 📖🖋️ Currently I'm perfecting my skills, applying them in projects, aiming excellency.
 - 📮📡 Get in touch online through my social channels, by Email or Linkedin.
 - ✝️🕊️ I'm a follower of Jesus Christ! The Lord saved my life!
-
-#### *Main Tools & Languages experience:*
-
-![image](https://github.com/user-attachments/assets/9ade8eac-4366-4277-8965-21d4e5378378)
-
