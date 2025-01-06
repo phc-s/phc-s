@@ -1,4 +1,4 @@
-![phc-sgit](https://github.com/user-attachments/assets/3b1835ec-09c7-4895-a5ab-4cd725577ecd)
+![image](https://github.com/user-attachments/assets/a025643e-fed2-4362-8175-681dbbc9d193)
 #### *About me:*
 
 - 😉✌️ Hi, I'm Pedro Henrique Costa Silva ♾️!
@@ -9,7 +9,7 @@
 
 #### *Preferences:*
 
-- Desktop OS: Linux (Zorin OS) ![image](https://github.com/user-attachments/assets/a41159db-fea0-4608-8ff3-664eff515fa5)
+- Desktop OS: Zorin OS ![image](https://github.com/user-attachments/assets/a41159db-fea0-4608-8ff3-664eff515fa5)
 - Mobile OS: Android ![image](https://github.com/user-attachments/assets/6f606df4-9f3c-460d-8620-a1bf80b18770)
 - Browser: Firefox ![image](https://github.com/user-attachments/assets/8845aced-a63c-4b56-8e87-8c2d1c3fb0cc)
 
