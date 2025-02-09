@@ -4,7 +4,7 @@
 - 😉✌️ Hi, I'm Pedro Henrique Costa Silva ♾️!
 - 🖥️🖱️ Interested in Web & Mobile Development and Game Development as hobby.
 - 📖🖋️ Currently I'm perfecting my skills, applying them in projects, aiming excellency.
-- 📮📡 Get in touch online through my social channels, by Email, Linkedin or Youtube.
+- 📮📡 Get in touch online through my social channels, by Email or Linkedin.
 - ✝️🕊️ I'm a follower of Jesus Christ! The Lord saved my life!
 
 #### *Preferences:*
