@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/a025643e-fed2-4362-8175-681dbbc9d193)
+![linkedin_banner](https://github.com/user-attachments/assets/5e3141eb-ca0a-4a87-9966-467b10eaf596)
+
 #### *About me:*
 
 - 😉✌️ Hi, I'm Pedro Henrique Costa Silva ♾️!
@@ -9,9 +10,10 @@
 
 #### *Preferences:*
 
-- Desktop OS: Zorin OS ![image](https://github.com/user-attachments/assets/a41159db-fea0-4608-8ff3-664eff515fa5)
-- Mobile OS: Android ![image](https://github.com/user-attachments/assets/6f606df4-9f3c-460d-8620-a1bf80b18770)
-- Browser: Firefox ![image](https://github.com/user-attachments/assets/8845aced-a63c-4b56-8e87-8c2d1c3fb0cc)
+- Browser: Firefox ![image](https://github.com/user-attachments/assets/8845aced-a63c-4b56-8e87-8c2d1c3fb0cc) **&** Brave ![image](https://github.com/user-attachments/assets/8968ab6d-e06d-417e-a581-eb030a658027)
+- Desktop: Zorin OS ![image](https://github.com/user-attachments/assets/a41159db-fea0-4608-8ff3-664eff515fa5)  **&** Linux Mint ![image](https://github.com/user-attachments/assets/e532736c-b4af-402e-8a0a-d215df080a2e)
+- Mobile: Android ![image](https://github.com/user-attachments/assets/6f606df4-9f3c-460d-8620-a1bf80b18770)
+
 
 
 
