@@ -1,4 +1,4 @@
-![linkedin_banner](https://github.com/user-attachments/assets/5e3141eb-ca0a-4a87-9966-467b10eaf596)
+![MAIN_BANNER](https://github.com/user-attachments/assets/6d1d82c4-da6e-4b38-834c-0a59fdc00187)
 
 #### *About me:*
 
