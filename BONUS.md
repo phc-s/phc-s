@@ -2,7 +2,7 @@
 
 #### *My PC Specs:*
 
-- **OS**: Linux Mint 22.1 "Xia" Cinnamon
+- **OS**: Linux Mint 22.2 "Zara" Cinnamon
 - **MOBO**: MSI PRO B760M-P DDR4
 - **CPU**: Intel© Core™ i7-12700KF
 - **GPU**: AMD Radeon RX 580 2048SP
