@@ -10,10 +10,12 @@
 
 #### *Preferences:*
 
-- Browser: Firefox ![image](https://github.com/user-attachments/assets/8845aced-a63c-4b56-8e87-8c2d1c3fb0cc)
-- Desktop: Linux Mint ![image](https://github.com/user-attachments/assets/e532736c-b4af-402e-8a0a-d215df080a2e)
-- Mobile: Android ![image](https://github.com/user-attachments/assets/6f606df4-9f3c-460d-8620-a1bf80b18770)
-- AI Tool: Gemini ![image](https://github.com/user-attachments/assets/ba35ddf1-2969-4faa-b69e-daa444c9c739)
+- **Browser:** Zen Browser <img width="16" height="16" alt="zen" src="https://github.com/user-attachments/assets/7405c428-0248-4f4e-89a9-46fce6d2fda2" />
+- **Desktop:** Linux Mint <img width="16" height="16" alt="mint" src="https://github.com/user-attachments/assets/bb6ac9bf-6978-4579-a2d9-97845b6395e9" />
+- **Search Engine:** SearX <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/1fcdfd3f-fe84-46ed-b522-7def41ea3105" />
+- **Mobile:** Android <img width="16" height="16" alt="android" src="https://github.com/user-attachments/assets/ee2358b8-b8a8-4b1a-ac2e-c990be299116" />
+- **AI Tool:** Gemini <img width="16" height="16" alt="gemini" src="https://github.com/user-attachments/assets/282beac7-80d0-4236-b426-57349f0abdb0" />
+
 
 
 
