@@ -1,8 +1,8 @@
-![MAIN_BANNER](https://github.com/user-attachments/assets/6d1d82c4-da6e-4b38-834c-0a59fdc00187)
+<img width="1859" height="558" alt="MAIN_BANNER" src="https://github.com/user-attachments/assets/b06ed3e3-f466-4d2d-9dd3-4cf6c3b05b6f" />
 
 #### *My PC Specs:*
 
-- **OS**: Linux Mint 22.2 "Zara" Xfce
+- **OS**: Linux Mint 22.3 "Zena" Xfce
 - **MOBO**: MSI PRO B760M-P DDR4
 - **CPU**: Intel© Core™ i7-12700KF
 - **GPU**: AMD Radeon RX 580 2048SP
