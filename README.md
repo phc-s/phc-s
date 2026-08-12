@@ -15,7 +15,7 @@
 - **Desktop:** Linux Mint <img width="16" height="16" alt="mint" src="IMG/mint.png" />
 - **Search Engine:** DuckDuckGo <img width="16" height="16" alt="duckduckgo" src="IMG/duckduckgo.png" />
 - **Mobile:** Android <img width="16" height="16" alt="android" src="IMG/android.png" />
-- **AI Tool:** Gemini <img width="16" height="16" alt="gemini" src="IMG/gemini.png" />
+- **Main AI:** Gemini <img width="16" height="16" alt="gemini" src="IMG/gemini.png" />
 
 
 
