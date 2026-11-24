@@ -12,11 +12,11 @@
 #### *Preferences:*
 
 - **Browser:** Zen Browser <img width="16" height="16" alt="zen" src="IMG/zen.png" />
-- **Desktop:** Debian 13 "Trixie"
+- **OS:** Debian 13 "Trixie" XFCE <img width="16" height="16" alt="zen" src="IMG/debian.png" />
 - **Search Engine:** DuckDuckGo <img width="16" height="16" alt="duckduckgo" src="IMG/duckduckgo.png" />
 - **Mobile:** Android <img width="16" height="16" alt="android" src="IMG/android.png" />
 - **Cloud AI:** Gemini 4 Hydrogen <img width="16" height="16" alt="gemini" src="IMG/gemini.png" />
-- **Local AI:** Granite 4.2 3B 
+- **Local AI:** Granite 4.2 3B <img width="16" height="16" alt="zen" src="IMG/granite.png" />
 
 
 
